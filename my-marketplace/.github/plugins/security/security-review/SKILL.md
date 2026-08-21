@@ -1,6 +1,6 @@
 ---
 name: security-review
-description: A sample security review skill for the SMBC Copilot Marketplace.
+description: A sample security review skill for the SMBC Copilot Marketplace Test123.
 ---
 
 # Security Review Skill
