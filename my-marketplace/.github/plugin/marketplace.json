@@ -2,7 +2,7 @@
   "name": "my-marketplace",
   "owner": {
     "name": "Kenn"
-  },
+  }, #test
   "metadata": {
     "description": "SMBC approved Copilot plugins and skills."
   },
