@@ -1,5 +1,5 @@
 {
-  "name": "security-review",
+  "name": "security-review", #Test
   "version": "1.0.0",
   "description": "Performs security reviews of source code.",
   "owner": "SMBC AI Security",
