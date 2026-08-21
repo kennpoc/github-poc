@@ -1,6 +1,6 @@
 ---
 name: dotnet
-description: A sample .NET development skill for the SMBC Copilot Marketplace.
+description: A sample .NET development skill for the SMBC Copilot Marketplace Test.
 ---
 
 # .NET Skill
