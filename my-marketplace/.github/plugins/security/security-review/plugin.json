@@ -1,0 +1,7 @@
+{
+  "name": "security-review",
+  "version": "1.0.0",
+  "description": "Performs security reviews of source code.",
+  "owner": "SMBC AI Security",
+  "category": "security"
+}

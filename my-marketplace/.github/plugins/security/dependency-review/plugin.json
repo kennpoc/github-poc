@@ -1,0 +1,7 @@
+{
+  "name": "dependency-review",
+  "version": "1.0.0",
+  "description": "Reviews project dependencies for security and compliance risks.",
+  "owner": "SMBC AI Security",
+  "category": "security"
+}

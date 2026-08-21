@@ -1,0 +1,7 @@
+{
+  "name": "dotnet",
+  "version": "1.0.0",
+  "description": "Provides approved .NET development guidance.",
+  "owner": "SMBC .NET Engineering",
+  "category": "development"
+}

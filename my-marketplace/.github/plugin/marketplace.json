@@ -1,0 +1,31 @@
+{
+  "name": "my-marketplace",
+  "owner": {
+    "name": "Kenn"
+  },
+  "metadata": {
+    "description": "SMBC approved Copilot plugins and skills."
+  },
+  "plugins": [
+    {
+      "name": "security-review",
+      "source": "./.github/plugins/security/security-review"
+    },
+    {
+      "name": "dependency-review",
+      "source": "./.github/plugins/security/dependency-review"
+    },
+    {
+      "name": "java",
+      "source": "./.github/plugins/development/java"
+    },
+    {
+      "name": "dotnet",
+      "source": "./.github/plugins/development/dotnet"
+    },
+    {
+      "name": "doc-write",
+      "source": "./.github/plugins/documentation/doc-write"
+    }
+  ]
+}

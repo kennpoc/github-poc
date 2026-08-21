@@ -1,0 +1,7 @@
+{
+  "name": "doc-write",
+  "version": "1.0.0",
+  "description": "Generates technical documentation using approved SMBC documentation standards.",
+  "owner": "SMBC Engineering Enablement",
+  "category": "documentation"
+}
