@@ -1,6 +1,6 @@
 ---
 name: doc-write
-description: A sample documentation writing skill for the SMBC Copilot Marketplace.
+description: A sample documentation writing skill for the SMBC Copilot Marketplace Test.
 ---
 
 # Documentation Writing Skill
